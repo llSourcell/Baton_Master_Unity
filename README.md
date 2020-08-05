@@ -10,6 +10,8 @@ Baton Master is an educational Virtual Reality experience built for the Oculus p
 
 Watch the tutorial [here](https://youtu.be/tLZgW-R_Y7g). 
 
+Sheet music is [here](https://rampancy.net/blog/Jonathan_Churchill/28/04/2008/Finish_Fight_Full_Orchestral_Score). 
+
 ## Credits
 
 Shoutout to the Unity team, the Oculus team, and [Calebsem](https://gist.github.com/Calebsem) for the metronome functionality example in C#. 
@@ -66,4 +68,6 @@ I love using the Oculus Link beta. I've actually been coding with the headset on
 - The orchestra is not moving, create an animation loop for the orchestra, treat it as a particle system.
 - Use Deep Reinforcement Learning to create an adaptive animation loop, the orchestra plays louder, moves faster, as the player moves their hands.
 - Make the failure mode more robust and fun. Have the song slowly break apart as failure nears.
+- More time signatures, not just 4/4 time.
+- Have the cue sending functionality automatically read sheet music and send them out accordingly. 
 
