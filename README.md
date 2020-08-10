@@ -32,7 +32,7 @@ Shoutout to the Unity team, the Oculus team, and [Calebsem](https://gist.github.
 - Download Visual Studio
 - Download the Oculus desktop app  (only necessary to play it in VR)
 - Unity Store packages used: AurynSky (starfield skybox), Oculus Integration, Volumetric Lines, & Particle Ribbon.
-- CGTrader assets used: Orchestra NPC collection, Concert Hall. 
+- CGTrader assets used: Orchestra NPC collection, Concert Hall. You will need to get the Concert Hall asset [here](https://www.cgtrader.com/3d-models/interior/hall/concert-hall-amphitheater-vr-baked-corona-max-scene) from CGTrader. 
 
 ## How to run 
 
